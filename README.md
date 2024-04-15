@@ -22,8 +22,6 @@
 Plugin:
 
 ```shell
-asdf plugin add periphery
-# or
 asdf plugin add periphery https://github.com/sergiymomot/asdf-periphery.git
 ```
 
